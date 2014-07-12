@@ -13,7 +13,7 @@ utszlib_douban
 
 * 如果你是Chrome用户
 
-  请猛击 `这个页面 <>`_ ，点击页面右上角的Add To Chrome，就会自动安装到你的浏览器。
+  请猛击 `这个页面 <https://chrome.google.com/webstore/detail/%E6%B7%B1%E5%9C%B3%E5%A4%A7%E5%AD%A6%E5%9F%8E%E5%9B%BE%E4%B9%A6%E9%A6%86%E8%B1%86%E7%93%A3%E8%AF%BB%E4%B9%A6%E6%8F%92%E4%BB%B6/ncnhiffdlfinflclomhkoginbmoeigkf?hl=zh-CN>`_ ，点击页面右上角的Add To Chrome，就会自动安装到你的浏览器。
 
 
 安装之后的效果
